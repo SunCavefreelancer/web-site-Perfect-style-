@@ -1,0 +1,42 @@
+/* ======Підключення вручну======= */
+/* Шрифт № 1 */
+@font-face {
+	font-family: '13236-fontps';
+	src:
+		url("..//fonts/13236-fontps.woff2") format("woff2"),
+		url("..//fonts/13236-fontps.woff") format("woff");
+	wont-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+
+/* Шрифт № 2 */
+@font-face {
+	font-family: 'aparajbi';
+	src:
+		url("..//fonts/aparajbi.woff2") format("woff2"),
+		url("..//fonts/aparajbi.woff") format("woff");
+	wont-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* Шрифт № 3 */
+@font-face {
+	font-family: 'CALIFB';
+	src:
+		url("..//fonts/CALIFB.woff2") format("woff2"),
+		url("..//fonts/CALIFB.woff") format("woff");
+	wont-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+
+
+
+/* --------------------------------------- */
+/* Підкдючення шрифтів google*/
+@import url('https://fonts.googleapis.com/css?family=Inter:400&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poppins:600&display=swap');
